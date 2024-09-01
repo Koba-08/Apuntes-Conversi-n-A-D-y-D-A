@@ -1,4 +1,4 @@
-#Cpnversión A/D y D/A
+# Conversión A/D y D/A
 ## 1. Señales Digitales vs. Señales Analógicas
 Las señales digitales y analógicas se utilizan para representar información de formas diferentes. Las señales analógicas pueden variar de manera continua, mientras que las señales digitales están limitadas a valores discretos. Esta distinción afecta la precisión, flexibilidad, velocidad y costo de los sistemas de control.
 
